@@ -1,19 +1,12 @@
-# This is a large heading
-## This is a smaller heading
-And as **imagination** bodies forth, The forms of things *unknown*, the 
-poets pen, Turns them to shapes and gives to airy nothing, A local 
-*habitation* and a **name**.
-- This is 
-- an unordered 
-- list 
-1. This is 
-2. an ordered 
-3. list Here is `some code` in the middle of a sentence. 
-```
-This is a block of code 
-```
-Here is how you make [a link](https://www.wikipedia.org/). 
+# Chase
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+###Geog
 
-nano README.md
+LA-based
+
+###Reading
+
+Currently working through:
+- [City of Quartz](https://www.amazon.com/City-Quartz-Excavating-Future-Angeles/dp/1844675688) 
+- [The Drunkard's Walk](https://www.amazon.com/Drunkards-Walk-Randomness-Rules-Lives/dp/0307275175/ref=sr_1_2?s=books&ie=UTF8&qid=1512105860&sr=1-2&keywords=mlodinow)
+
