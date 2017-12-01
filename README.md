@@ -1,10 +1,10 @@
 # Chase
 
-###Geog
+### Geog
 
 LA-based
 
-###Reading
+### Reading
 
 Currently working through:
 - [City of Quartz](https://www.amazon.com/City-Quartz-Excavating-Future-Angeles/dp/1844675688) 
